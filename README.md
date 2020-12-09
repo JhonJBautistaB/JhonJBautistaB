@@ -10,11 +10,10 @@
 
 <br />
 
-Hola, soy freelancer en Workana como soporte IT y Desarrollador Backend. Vivo en la hermosa tierra de Boyacá-Colombia. Actualmente estoy trabajando en unos proyectos bajo ![python](https://img.shields.io/badge/3.8-Python-306998?style=for-the-badge&logo=python&logoColor=white)
-<br>
-> ![flask](https://img.shields.io/badge/1.1.2-Flask-FFD43B?style=for-the-badge&logo=Flask&logoColor=white)
-<br>
-> ![Django](https://img.shields.io/badge/3.1.4-Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
+Hola, soy freelancer en Workana como soporte IT y Desarrollador Backend. Vivo en la hermosa tierra de Boyacá-Colombia. Actualmente estoy trabajando en unos proyectos bajo 
+![python](https://img.shields.io/badge/3.8-Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![flask](https://img.shields.io/badge/1.1.2-Flask-FFD43B?style=for-the-badge&logo=Flask&logoColor=white)
+![Django](https://img.shields.io/badge/3.1.4-Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
 
 Soy estudiante de [Platzi Master](https://platzi.com/blog/que-es-platzi-master/) donde actualmente trabajamos con el proyecto [P-maker](http://p-maker.vercel.app/). Esto ha ayudado a ampliar mis conocimientos y el trabajo en equipo.
 
@@ -45,4 +44,4 @@ Soy estudiante de [Platzi Master](https://platzi.com/blog/que-es-platzi-master/)
 
 📈 My GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=JhonJBautista&show_icons=true&theme=gotham" alt="JhonJBautistaB" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jhonjbautistab&show_icons=true&theme=gotham" alt="JhonJBautistaB" />
