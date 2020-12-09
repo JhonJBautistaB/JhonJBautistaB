@@ -1,27 +1,48 @@
-![Infraestructura](https://www.esan.edu.pe/apuntes-empresariales/2018/09/05/1500x844_infraestructura_ti.jpg)
-# Que tal, Devs!
+### Hello, I'm Jhon Jairo
+<a href="https://twitter.com/jhonjbautistab" target="_blank">
+  <img align="left" alt="Jhon Jairo Bautista B. | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/jhonjbautistab/" target="_blank">
+  <img align="left" alt="Jhon Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-Primero déjame darte las  ¡Gracias!  por visitar mi repositorio, como ya saben mi nombre es **Jhon Jairo Bautista** soy de Colombia; Graduado como Tecnólogo en Programación de Sistemas Informático de la Universidad Pedagógica y Tecnológica de Colombia "UPTC". 
+![](https://visitor-badge.glitch.me/badge?page_id=JhonJBautistaB)
 
-Apasionado por la tecnología y el desarrollo web. Con 18 años de experiencia en soporte informático y de infraestructura nivel II y III. Llevo 3 años siendo Freelancer en el área infraestructura y soporte y actualmente estoy llevando mi carrera a otro nivel con el desarrollo de aplicaciones web. Siempre soñé con ser Desarrollador y hoy día voy paso a paso a cumplir ese sueño.
+<br />
 
+Hola, soy freelancer en Workana como soporte IT y Desarrollador Backend. Vivo en la hermosa tierra de Boyacá-Colombia. Actualmente estoy trabajando en unos proyectos bajo ![python](https://img.shields.io/badge/3.8-Python-306998?style=for-the-badge&logo=python&logoColor=white)
+<br>
+> ![flask](https://img.shields.io/badge/1.1.2-Flask-FFD43B?style=for-the-badge&logo=Flask&logoColor=white)
+<br>
+> ![Django](https://img.shields.io/badge/3.1.4-Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
 
-![Pythonista](https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/07/16/0f6fa179-6d5b-4949-bcba-a1a89f9d6da9.jpg)
+Soy estudiante de [Platzi Master](https://platzi.com/blog/que-es-platzi-master/) donde actualmente trabajamos con el proyecto [P-maker](http://p-maker.vercel.app/). Esto ha ayudado a ampliar mis conocimientos y el trabajo en equipo.
 
-## ¿Porque Python?
+<br />
 
-Desde la Universidad aprendí con los fundamentos de **C++** y posteriormente con **JAVA** lenguajes con los cuales aprendí a crear pequeñas aplicaciones, debido a que en mis inicios me incline por la infraestructura y seguridad informática dentro de mí siempre estuvo ese sueño para realizar un software web con todos los estándares de la Industria TECH.
- 
-Vi la necesidad de aprender más a fondo sobre este lenguaje, quería participar en una comunidad de estudiantes apasionados por la tecnología, donde existiera un respeto y no te juzgaran por tu desconocimiento de una tecnología y te apoyaran al *100%* para dar el paso y convertirte en ***Desarrollador***.  
+**Que estoy haciendo en este momento?:**
 
-Busque muchos lenguajes que actualmente están de moda muy demandados:
+- 💻 Trabajando en el desarrollo de una aplicación para talleres e inventarios de equipos medicos.
+- 🌱 Actualmente estoy aprendiendo sobre el framework Django. 
+- 📕 En [Platzi Master](https://platzi.com/blog/que-es-platzi-master/) estoy mejorando mis habilidades sociales, de desarrollo de software colaborando en la creación de proyectos aplicando metodologías Agiles
 
-> - **JavaScript** me agobio todo ese entorno donde se maneja tanto en el backend como en el frontend
-> - **C#** un lenguaje altamente demandando pero para comenzar desde cero lo veia complicado
-> - **JAVA** creo que de tanto leer su documentación y no entender como hacer una aplicación escalable termine por decantarme
- > - **Python** lo conocí gracias a que buscando video tutoriales encontré uno de los mejores profesores de la red Juan  Díaz con su canal [Pildoras Informaticas](https://www.youtube.com/channel/UCdulIs-x_xrRd1ezwJZR9ww) y me enganche con este lenguaje
+<br />
 
+**Lenguajes y Herramientas**  
 
-|![PlatziMaster](https://static.platzi.com/media/user_upload/platzi-master-6395be10-f766-461d-986b-d80290f5e704.jpg)   |
-|-----|
-|Después de aprender esos fundamentos,  quería participar en alguna comunidad y decidí ingresar a Platzi.com y estoy feliz pues con tan solo 7 meses ya hago parte de una comunidad espectacular y pude ingresar a uno de sus programas elites de crecimiento profesional, donde te ayuda a realizar tus sueños si te esfuerzas por aprender y aplicar en proyectos todos esos conocimientos adquiridos.  |
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongo/mongo.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<br />
+
+📈 My GitHub Stats
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=JhonJBautista&show_icons=true&theme=gotham" alt="JhonJBautistaB" />
