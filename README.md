@@ -10,39 +10,38 @@
 
 <br />
 
-Hola, soy freelancer en Workana como soporte IT y Desarrollador Backend. Vivo en la hermosa tierra de Boyacá-Colombia. Actualmente estoy trabajando en unos proyectos bajo 
+**Hola Dev**, gracias por visita mi repositorio, permiteme contarte un poco de mí: 
 <br />
-![python](https://img.shields.io/badge/3.8-Python-306998?style=for-the-badge&logo=python&logoColor=white)
-![flask](https://img.shields.io/badge/1.1.2-Flask-FFD43B?style=for-the-badge&logo=Flask&logoColor=white)
-![Django](https://img.shields.io/badge/3.1.4-Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
-
-Soy estudiante de [Platzi Master](https://platzi.com/blog/que-es-platzi-master/) donde actualmente trabajamos con el proyecto [P-maker](http://p-maker.vercel.app/). Esto ha ayudado a ampliar mis conocimientos y el trabajo en equipo.
+> Vengo del mundo de infraestructura IT donde preste servicios en la industria O&G,Aduaneros y de Servicios, actualmente soy Desarrollador Backend con experiencia de un año en las siguientes tecnologías <br />
+> ![golang](https://img.shields.io/badge/1.15.-Golang-53D2F5?style=for-the-badge&logo=go&logoColor=white)
+> ![python](https://img.shields.io/badge/3.8-Python-306998?style=for-the-badge&logo=python&logoColor=white)
+> ![flask](https://img.shields.io/badge/1.1.2-Flask-FFD43B?style=for-the-badge&logo=Flask&logoColor=white)
+> ![Django](https://img.shields.io/badge/3.1.4-Django-092E20?style=for-the-badge&logo=Django&logoColor=white)<br />
+>Soy graduado como Tecnólogo en Programación de Sistemas Informaticos de la UPTC, y estudiante de [Platzi Master](https://platzi.com/blog/que-es-platzi-master/) donde rabajamos en un proyecto [P-maker](http://p-maker.vercel.app/) que permite generar portafolios laborales de los estudiantes, esto ha ayudado a ampliar mis conocimientos a nivel de programación y trabajo en equipo, manejando metodologías Agile.
 
 <br />
 
 **Que estoy haciendo en este momento?:**
-
-- 💻 Trabajando en el desarrollo de una aplicación para talleres e inventarios de equipos medicos.
-- 🌱 Actualmente estoy aprendiendo sobre el framework Django. 
-- 📕 En [Platzi Master](https://platzi.com/blog/que-es-platzi-master/) estoy mejorando mis habilidades sociales, de desarrollo de software colaborando en la creación de proyectos aplicando metodologías Agiles
+- 💻 Trabajando con una gran empresa como Jikkosoft, desarrollando aplicaciones que estan impactando la economía en Colombia, generando valor a nuestro país.
+- 💻 Desarrollo una aplicación para talleres e inventarios de equipos medicos en mis ratos libres.
+- 🌱 Actualmente estoy aprendiendo golang, estructura de datos, Patrones de Diseño, AWS entre otro. 
+- 📕 En [Platzi Master](https://platzi.com/blog/que-es-platzi-master/) he mejorando mis habilidades sociales, de desarrollo de software colaborando en la creación de proyectos
 
 <br />
 
 **Lenguajes y Herramientas**  
+> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
+> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code><br/>
+> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+> <code><img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg"></code><br/>
+> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><br/>
+> <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><br />
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-<br />
-
-📈 My GitHub Stats
+## 📈 My GitHub Stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jhonjbautistab&show_icons=true&theme=gotham" alt="JhonJBautistaB" />
